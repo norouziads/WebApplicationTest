@@ -26,5 +26,9 @@ namespace WebApplicationTest.Controllers
 
             return View();
         }
+        public ActionResult Create()
+        {
+            return View();
+        }
     }
 }
